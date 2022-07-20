@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.1.32421.90
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3B0EEBB2-05E6-4473-BAC2-44498D25553A}"
 EndProject
@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Core", "2-Core", "{02DAE4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dataplace.Imersao.Core", "src\Dataplace.Imersao.Core\Dataplace.Imersao.Core.csproj", "{6840C00F-A1C8-4542-A089-D033BB28813B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dataplace.Imersao.Core.Tests", "tests\Dataplace.Imersao.Core.Tests\Dataplace.Imersao.Core.Tests.csproj", "{10164F3D-5956-4E40-85FA-26D51CD71FC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dataplace.Imersao.Core.Tests", "tests\Dataplace.Imersao.Core.Tests\Dataplace.Imersao.Core.Tests.csproj", "{10164F3D-5956-4E40-85FA-26D51CD71FC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
